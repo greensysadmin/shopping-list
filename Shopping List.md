@@ -9,4 +9,6 @@ Nappies
 Eggs  
 Frozen Spinach  
 Flour  
-Sugar  
+Caster Sugar  
+Broccoli  
+Carrots
